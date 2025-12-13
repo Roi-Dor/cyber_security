@@ -16,10 +16,9 @@
 2025-12-08 13:44:18 WARN GET /../../etc/passwd status=404 ip=113.9.10.175
 2025-12-08 13:44:18 WARN GET /images/../../root/.bash_history status=404 ip=32.92.116.41
 2025-12-08 13:44:18 INFO GET /products?id=798 status=200 ip=168.11.93.202
-2025-12-08 13:44:18 INFO GET /contact status=200 ip=107.243.27.195
-2025-12-08 13:44:18 INFO GET /about status=200 ip=149.46.219.14
-2025-12-08 13:44:18 INFO GET /api/v1/status status=200 ip=183.69.39.8
-2025-12-08 13:44:18 INFO GET /images/logo.png status=200 ip=147.64.130.172
-2025-12-08 13:44:18 INFO GET /about status=200 ip=75.66.64.72
-2025-12-08 13:44:18 INFO GET /api/v1/status status=200 ip=173.89.184.74
+10:00:01 User 'admin' login failed (IP: 5.5.5.5)
+10:00:02 User 'admin' login failed (IP: 5.5.5.5)
+10:00:03 User 'admin' login failed (IP: 5.5.5.5)
+10:00:04 User 'admin' login failed (IP: 5.5.5.5)
+10:00:05 User 'root' login success (IP: 5.5.5.5)
 2025-12-08 13:44:18 INFO GET /api/v1/status status=200 ip=149.236.67.46
